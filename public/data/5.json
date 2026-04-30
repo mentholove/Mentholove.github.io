@@ -1,0 +1,43 @@
+{
+  "id": 5,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Jelenia+Bia%C5%82a"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Pełne słońce / półcień", "en": "Full sun / partial shade" },
+    "height": { "pl": "do 60 cm", "en": "up to 60 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia śródziemnomorska", "Napary", "Odstraszające insekty", "Prozdrowotne", "Aromaterapia", "Roślina ozdobna"],
+      "en": ["Mediterranean cuisine", "Infusions", "Insect repellent", "Health-promoting", "Aromatherapy", "Ornamental"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Jelenia Biała",
+      "latinName": "Mentha cervina 'Alba'",
+      "shortDescription": "Niezwykła odmiana mięty o igiełkowatych liściach i gęstych, białych kwiatach — ozdoba oczek wodnych i stawów.",
+      "sections": {
+        "appearance": "Mam bardzo nietypowe, drobne i krótkie, ciemnozielone listki przypominające igły. Latem pojawiają się przepiękne, gęste, białe kwiaty zebrane w kuliste kwiatostany. Osiągam do 60 cm wysokości i mam kępiasty pokrój — rozrastam się przez kłącza, tworząc zwartą, niską murawę. Kwitnę bardzo obficie od czerwca do lipca, a szczególnie na przełomie lata i jesieni wabię pszczoły, trzmiele i motyle.",
+        "origin": "Pierwsze wzmianki według XVIII-wiecznej nomenklatury pochodzą z 1753 roku. Występuję na podmokłych terenach Hiszpanii, Portugalii oraz środkowej części Francji.",
+        "benefits": "Pozyskiwany z moich liści olejek eteryczny wykorzystywany jest w przemyśle chemicznym, perfumeryjnym, farmaceutycznym, spożywczym (m.in. do wyrobu słodyczy) i tytoniowym. Preparaty z mojego ziela zwiększają wydzielanie soków trawiennych, zmniejszają napięcie mięśni gładkich oraz działają przeciwbakteryjnie. Ze względu na działanie uspokajające jestem pomocna w leczeniu bezsenności, migreny, nerwobóli i łagodzę ból gardła. Jestem rośliną miododajną — przyciągam pszczoły i motyle.",
+        "foodPairing": "Moje świeże listki dobrze komponują się z deserami (lody, owoce, czekolada), można je dodawać do sałatek, dipów, sosów oraz nalewek na bazie alkoholu. Oczywiście jako zioło króluję przede wszystkim w przepysznych drinkach.",
+        "planting": "W odróżnieniu od innych gatunków lubię dużo słońca — gdy oddziałują na mnie promienie słoneczne, wówczas mam najbardziej intensywny zapach (toleruję też półcień). Preferuję stanowiska podmokłe i częściowo zanurzone w wodzie, dlatego świetnie sprawdzam się wokół oczek wodnych i stawów. Lubię glebę wilgotną, żyzną i dobrze przepuszczalną oraz obfite podlewanie, szczególnie latem. Jestem łatwa w uprawie, szybko się rozrastam i jestem mrozoodporna do -20°C. Wczesną wiosną i późną jesienią mogę być wysyłana w formie kłączy, bulwek lub przetrwalników — to zdrowe rośliny, które jesienią tracą liście, zimą hibernują, a wiosną budzą się i intensywnie rozwijają nowe pędy, liście oraz kwiaty."
+      }
+    },
+    "en": {
+      "name": "Hart's Pennyroyal (White)",
+      "latinName": "Mentha cervina 'Alba'",
+      "shortDescription": "An unusual mint with needle-like leaves and dense white flowers — a decorative plant for ponds and water gardens.",
+      "sections": {
+        "appearance": "I have very unusual, small, short, dark-green leaves that resemble needles. In summer beautiful dense white flowers appear, gathered in spherical inflorescences. I grow up to 60 cm tall and have a clumping habit — I spread via rhizomes, forming a dense, low mat. I bloom abundantly from June to July, and especially around the turn of summer and autumn I attract bees, bumblebees, and butterflies.",
+        "origin": "The earliest mentions in 18th-century nomenclature date back to 1753. I'm found in wetlands of Spain, Portugal, and central France.",
+        "benefits": "The essential oil obtained from my leaves is used in the chemical, perfume, pharmaceutical, food (including sweets), and tobacco industries. Preparations made from my herb increase the secretion of digestive juices, relax smooth muscles, and have antibacterial properties. Thanks to my calming effect, I help with insomnia, migraines, neuralgia, and a sore throat. I'm a melliferous plant — I attract bees and butterflies.",
+        "foodPairing": "My fresh leaves pair well with desserts (ice cream, fruit, chocolate). They can be added to salads, dips, sauces, and alcohol-based liqueurs. As a herb, I shine above all in delicious drinks.",
+        "planting": "Unlike other mint species I love plenty of sun — when sunlight reaches me, my fragrance is at its most intense (I tolerate partial shade too). I prefer wet sites and even partial submersion, which makes me perfect around ponds and water gardens. I like moist, rich, well-drained soil and abundant watering, especially in summer. I'm easy to grow, spread quickly, and frost-resistant down to -20°C. In early spring and late autumn I may be shipped as rhizomes, tubers, or dormant specimens — these are healthy plants that drop their leaves in autumn, hibernate over winter, and wake up in spring to vigorously develop new shoots, leaves, and flowers."
+      }
+    }
+  }
+}

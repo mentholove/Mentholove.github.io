@@ -4,39 +4,39 @@
     "https://placehold.co/600x400/86efac/14532d?text=Mi%C4%99ta+Czekoladowa"
   ],
   "badges": {
-    "frostResistance": "-25°C",
+    "frostResistance": "-30°C",
     "perennial": true,
-    "position": { "pl": "Słońce / półcień", "en": "Sun / partial shade" },
-    "height": { "pl": "do 60 cm", "en": "up to 60 cm" },
+    "position": { "pl": "Słoneczne", "en": "Sunny" },
+    "height": { "pl": "do 50 cm", "en": "up to 50 cm" },
     "watering": { "pl": "Umiarkowane", "en": "Moderate" },
     "uses": {
-      "pl": ["Napary", "Prozdrowotne", "Aromaterapia"],
-      "en": ["Infusions", "Health-promoting", "Aromatherapy"]
+      "pl": ["Kuchnia", "Napary", "Prozdrowotne", "Aromaterapia", "Roślina ozdobna"],
+      "en": ["Cuisine", "Infusions", "Health-promoting", "Aromatherapy", "Ornamental"]
     }
   },
   "translations": {
     "pl": {
       "name": "Mięta Czekoladowa",
       "latinName": "Mentha × piperita 'Chocolate'",
-      "shortDescription": "Aromatyczna mięta o subtelnej nucie kakao, świetna do deserów i gorącej czekolady.",
+      "shortDescription": "Niezwykle dekoracyjna bylina o ciemnozielonych, lekko brązowych liściach i intensywnym, czekoladowo-miętowym aromacie.",
       "sections": {
-        "appearance": "Mam ciemnozielone, lekko brązowiejące listki i charakterystyczny zapach czekolady z miętą.",
-        "origin": "Jestem odmianą mięty pieprzowej, wyhodowaną dla wyjątkowego, kakaowego aromatu.",
-        "benefits": "Wspieram trawienie, koję nerwy i poprawiam nastrój. Idealna na wieczorne napary.",
-        "foodPairing": "Pasuję do gorącej czekolady, ciastek, lodów, deserów z malinami oraz koktajli mlecznych.",
-        "planting": "Lubię żyzną, wilgotną glebę i półcieniste stanowisko. Najlepiej trzymać mnie w doniczce — szybko się rozrastam."
+        "appearance": "Mam ciemnozielone, lekko brązowiejące liście i drobne, różowe kwiaty pojawiające się w czerwcu i lipcu. Dorastam do 50 cm i tworzę bujne kępy. Dzięki długim rozłogom szybko się rozprzestrzeniam, a w wiszących donicach przyjmuję efektowny, zwisający pokrój. Pachną zarówno moje liście, jak i kwiaty.",
+        "origin": "Pochodzę z Chin i Japonii. Jestem wieloletnią byliną, jedną z najpopularniejszych odmian mięty pieprzowej, cenioną za unikalny, czekoladowy aromat i ozdobny wygląd.",
+        "benefits": "Wspomagam trawienie, łagodzę dolegliwości żołądkowe i sprawdzam się w domowych naparach. Jestem rośliną miododajną — przyciągam pszczoły, dlatego świetnie wpisuję się w ogrody przyjazne zapylaczom. Mój olejek eteryczny stosowany jest w aromaterapii.",
+        "foodPairing": "Moje liście są jadalne i wyjątkowo aromatyczne — pasują do lodów, czekolady, owoców, ciast i innych deserów. Świetnie sprawdzają się też w koktajlach, napojach, herbatach, a także dodają świeżości sałatkom i sosom.",
+        "planting": "Najlepiej rosnę na stanowisku słonecznym, ciepłym i osłoniętym (toleruję też półcień), w glebie żyznej, próchnicznej, lekkiej, wilgotnej, lekko zasadowej i przepuszczalnej (polecam ziemię specjalnie pod uprawę ziół) o odczynie obojętnym i umiarkowanej wilgotności. Sprawdzam się w pojemnikach, na balkonach i tarasach, w ogrodach wiejskich i naturalistycznych. Lubię, gdy stanowisko jest wolne od chwastów i nawożenie co kilka tygodni. Rosnę energicznie — warto kontrolować moje rozłogi. Jestem mrozoodporna do -30°C, ale w pierwszych latach uprawy w bardzo zimnych regionach warto mnie okryć na zimę."
       }
     },
     "en": {
       "name": "Chocolate Mint",
       "latinName": "Mentha × piperita 'Chocolate'",
-      "shortDescription": "An aromatic mint with a subtle cocoa note — perfect for desserts and hot chocolate.",
+      "shortDescription": "A highly decorative perennial with dark green, slightly bronze-tinted leaves and an intense chocolate-mint aroma.",
       "sections": {
-        "appearance": "I have dark green, slightly bronze-tinted leaves and a distinctive chocolate-mint aroma.",
-        "origin": "I am a variety of peppermint, cultivated for my unique cocoa-like fragrance.",
-        "benefits": "I support digestion, soothe nerves, and lift the mood. Ideal in evening infusions.",
-        "foodPairing": "I pair beautifully with hot chocolate, cookies, ice cream, raspberry desserts, and milkshakes.",
-        "planting": "I love rich, moist soil and a partially shaded spot. Best kept in a pot — I spread quickly."
+        "appearance": "I have dark green, slightly bronze-tinted leaves and small pink flowers that appear in June and July. I grow up to 50 cm tall and form lush clumps. Thanks to long runners I spread quickly, and in hanging containers I take on an attractive trailing habit. Both my leaves and flowers are fragrant.",
+        "origin": "I come from China and Japan. I'm a hardy perennial — one of the most popular varieties of peppermint, prized for my unique chocolate aroma and decorative appearance.",
+        "benefits": "I support digestion, soothe stomach discomfort, and work beautifully in homemade infusions. I'm a melliferous plant — I attract bees, which makes me a great fit for pollinator-friendly gardens. My essential oil is used in aromatherapy.",
+        "foodPairing": "My leaves are edible and exceptionally aromatic — they pair beautifully with ice cream, chocolate, fruit, cakes, and other desserts. They're also great in cocktails, drinks, and teas, and add freshness to salads and sauces.",
+        "planting": "I grow best in a sunny, warm, sheltered spot (I also tolerate partial shade), in rich, humus-rich, light, moist, slightly alkaline, well-drained soil (a dedicated herb-growing mix is ideal) with neutral pH and moderate moisture. I do well in containers on balconies and terraces, in cottage and naturalistic gardens. I prefer a weed-free spot and benefit from feeding every few weeks. I grow vigorously — my runners are worth keeping in check. I'm frost-resistant down to -30°C, but in very cold regions consider covering me for winter during the first few seasons."
       }
     }
   }

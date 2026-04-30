@@ -1,0 +1,43 @@
+{
+  "id": 3,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Limonkowa"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Pełne słońce", "en": "Full sun" },
+    "height": { "pl": "do 40 cm", "en": "up to 40 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia orientalna", "Napary", "Odstraszające insekty", "Prozdrowotne", "Aromaterapia"],
+      "en": ["Oriental cuisine", "Infusions", "Insect repellent", "Health-promoting", "Aromatherapy"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Limonkowa",
+      "latinName": "Mentha × piperita f. citrata 'Lime'",
+      "shortDescription": "Odmiana variegata o świeżym, limonkowym aromacie i białozielonych liściach.",
+      "sections": {
+        "appearance": "Charakteryzuję się białozielonymi liśćmi, które nabierają wyrazistego wybarwienia w późniejszym stadium rozwoju. Moje kwiaty i liście pięknie pachną.",
+        "origin": "Jestem odmianą mięty pieprzowej cytrusowej (citrata) o nazwie 'Lime' — wyselekcjonowanej dla wyjątkowego, limonkowego aromatu i dekoracyjnego, pstrego ulistnienia.",
+        "benefits": "Działam prozdrowotnie, wspieram trawienie i odświeżam. Mój olejek eteryczny sprawdza się w aromaterapii, a zapach skutecznie odstrasza insekty.",
+        "foodPairing": "Moje liście są jadalne — świetnie pasują do kuchni orientalnej, naparów, lemoniad, koktajli oraz deserów z owocami cytrusowymi.",
+        "planting": "Najlepiej rosnę na pełnym słońcu w żyznej, próchnicznej glebie (polecam specjalną ziemię pod uprawę ziół). Sprawdzam się w grupach, w ogrodach przydomowych i małych ogrodach. Trwałość liści jest sezonowa, ale jestem rośliną wieloletnią i mrozoodporną."
+      }
+    },
+    "en": {
+      "name": "Lime Mint",
+      "latinName": "Mentha × piperita f. citrata 'Lime'",
+      "shortDescription": "A variegated variety with a fresh lime aroma and creamy white-and-green leaves.",
+      "sections": {
+        "appearance": "I have white-and-green variegated leaves that develop a more vivid coloration as I mature. Both my flowers and leaves have a wonderful fragrance.",
+        "origin": "I'm a variety of citrus peppermint (citrata) named 'Lime', selected for my distinctive lime aroma and decorative variegated foliage.",
+        "benefits": "I'm health-promoting, support digestion, and refresh. My essential oil is great for aromatherapy, and my scent helps repel insects.",
+        "foodPairing": "My leaves are edible — they pair beautifully with Oriental cuisine, infusions, lemonades, cocktails, and citrus-fruit desserts.",
+        "planting": "I grow best in full sun in rich, humus-rich soil (a dedicated herb-growing mix is ideal). I work well in groupings, home gardens, and small gardens. My foliage is seasonal, but I'm a hardy perennial frost-resistant down to -20°C."
+      }
+    }
+  }
+}

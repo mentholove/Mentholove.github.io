@@ -1,0 +1,43 @@
+{
+  "id": 10,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Izraelska"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Słońce / półcień", "en": "Sun / partial shade" },
+    "height": { "pl": "do 100 cm", "en": "up to 100 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia", "Napary", "Koktajle", "Aromaterapia", "Roślina ozdobna"],
+      "en": ["Culinary", "Infusions", "Cocktails", "Aromatherapy", "Ornamental"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Izraelska",
+      "latinName": "Mentha longifolia",
+      "shortDescription": "Rzadka, wieloletnia mięta o długich, spiczastych liściach i wyjątkowo intensywnym, unikalnym aromacie. Ulubienica barmanów.",
+      "sections": {
+        "appearance": "Mam długie, spiczaste, lancetowate liście o wysokich walorach ozdobnych. Cechuje mnie intensywny, unikalny aromat — niewątpliwie jestem jedną z najbardziej aromatycznych mięt, jakie można mieć w ogrodzie. Latem wypuszczam smukłe, kłosowate kwiatostany na szczytach pędów. Osiągam wysokość około 60–100 cm.",
+        "origin": "Występuję naturalnie w basenie Morza Śródziemnego, na Bliskim Wschodzie i w północnej Afryce — stąd moja popularna nazwa „izraelska”. Bywam też nazywana mięta barmańska ze względu na intensywny aromat ceniony w drinkach.",
+        "benefits": "Mój silny, charakterystyczny zapach działa uspokajająco i odświeżająco. Tradycyjnie wykorzystywano mnie w ziołolecznictwie do wspomagania trawienia, łagodzenia bólów głowy i jako składnik aromaterapii. Jestem także naturalnym środkiem odstraszającym owady.",
+        "foodPairing": "Moje świeże listki doskonale wzbogacą smak zup, sałatek owocowych, sorbetów i innych słodkich potraw. Świetnie sprawdzą się jako dodatek do koktajli i drinków (mojito i jego wariantów), herbatek oraz orzeźwiających naparów. Pasuję też do kuchni bliskowschodniej i śródziemnomorskiej — sosów jogurtowych, baraniny i tabbouleh.",
+        "planting": "Najbardziej lubię półcień oraz miejsca słoneczne — urosnę praktycznie na każdym stanowisku. Szybko się rozrastam, więc można mieć pewność, że nie zabraknie mnie ani w kuchni, ani w ogrodzie. Z tego względu warto sadzić mnie w pojemniku zagłębionym w ziemi lub w doniczce, by ograniczyć moją ekspansywność. Świetnie rosnę w pojemnikach na tarasach, werandach i parapetach. Dobrze współgram z innymi odmianami mięty. Jestem całkowicie mrozoodporna i nie wymarzam w polskim klimacie. Jesienią ścinana, wiosną odrastam z pełnią aromatu."
+      }
+    },
+    "en": {
+      "name": "Israeli Mint",
+      "latinName": "Mentha longifolia",
+      "shortDescription": "A rare, perennial mint with long pointed leaves and an exceptionally intense, unique aroma. A bartender's favourite.",
+      "sections": {
+        "appearance": "I have long, pointed, lance-shaped leaves with strong ornamental appeal. I'm distinguished by an intense, unique aroma — undoubtedly one of the most aromatic mints you can have in your garden. In summer I produce slender spike-like flower clusters at the shoot tips. I reach about 60–100 cm in height.",
+        "origin": "I occur naturally around the Mediterranean basin, in the Middle East, and in North Africa — hence my popular name 'Israeli mint'. I'm sometimes also called 'bartender's mint' thanks to my intense aroma so prized in cocktails.",
+        "benefits": "My strong, distinctive scent has a calming and refreshing effect. I've traditionally been used in herbal medicine to support digestion, soothe headaches, and as a component of aromatherapy. I'm also a natural insect repellent.",
+        "foodPairing": "My fresh leaves wonderfully enhance soups, fruit salads, sorbets, and other sweet dishes. They're excellent in cocktails and drinks (mojito and its variants), teas, and refreshing infusions. I also pair beautifully with Middle Eastern and Mediterranean cuisine — yoghurt sauces, lamb, and tabbouleh.",
+        "planting": "I prefer partial shade and sunny spots — I'll grow on practically any site. I spread quickly, so you can be sure I won't run out either in the kitchen or in the garden. Because of that it's worth planting me in a buried container or pot to limit my invasive habit. I thrive in pots on terraces, verandas, and windowsills. I get along well with other mint varieties. I'm fully frost-hardy and don't freeze out in temperate climates. Cut back in autumn, I return in spring with full aroma."
+      }
+    }
+  }
+}

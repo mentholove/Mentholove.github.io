@@ -1,0 +1,43 @@
+{
+  "id": 8,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Bananowa"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Półcień", "en": "Partial shade" },
+    "height": { "pl": "do 30 cm", "en": "up to 30 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia orientalna", "Napary", "Prozdrowotne", "Aromaterapia", "Roślina ozdobna"],
+      "en": ["Oriental cuisine", "Infusions", "Health-promoting", "Aromatherapy", "Ornamental"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Bananowa",
+      "latinName": "Mentha arvensis 'Banana'",
+      "shortDescription": "Rzadka, niska odmiana mięty o jasnozielonych listkach, fioletowo-niebieskich kwiatach i wyjątkowym aromacie banana z miętą.",
+      "sections": {
+        "appearance": "Mam jasnozielone, delikatne liście o wyjątkowym, bananowym zapachu. Latem pojawiają się fioletowo-niebieskie, dekoracyjne kwiaty. Charakteryzuję się ładnym, kępiastym pokrojem i wolnym wzrostem — początkowo rosnę w górę, a przy zaawansowanej wegetacji kładę pędy na ziemi. Jestem odmianą niską (zwykle 25–40 cm).",
+        "origin": "Jestem odmianą mięty polnej (Mentha arvensis), która występuje na terenach Europy Północnej i Wschodniej. Pierwsze wzmianki według XVIII-wiecznej nomenklatury pochodzą z 1753 roku.",
+        "benefits": "Pozyskiwany z moich liści olejek eteryczny wykorzystywany jest w przemyśle chemicznym, perfumeryjnym, farmaceutycznym, spożywczym (m.in. do wyrobu słodyczy) i tytoniowym. Preparaty ze mnie zwiększają wydzielanie soków trawiennych, zmniejszają napięcie mięśni gładkich oraz działają przeciwbakteryjnie. Ze względu na działanie uspokajające jestem pomocna w leczeniu bezsenności, migreny, nerwobóli i łagodzę ból gardła. Jestem łagodniejszą alternatywą dla rodzimej mięty pieprzowej.",
+        "foodPairing": "Moje świeże listki doskonale wzbogacą smak zup, sałatek owocowych, sorbetów i innych słodkich potraw. Pasują też do koktajli, drinków, deserów (lody, owoce, czekolada), dipów, sosów oraz nalewek na bazie alkoholu. Można z nich zrobić również orzeźwiającą herbatkę lub napar.",
+        "planting": "Rosnę praktycznie w każdych warunkach. Najbardziej lubię półcień oraz miejsca słoneczne. W odróżnieniu od większości mięt nie jestem ekspansywna — dzięki wolnemu wzrostowi sprawdzam się świetnie w doniczkach, skrzynkach, na tarasach, werandach i parapetach, a także w ziołowych rabatach. Pięknie wyglądam w otoczeniu innych roślin i dobrze współgram z innymi odmianami mięty. Jestem całkowicie mrozoodporna i nie wymarzam w polskim klimacie. Wegetację zaczynam późno — dopiero na początku maja, gdy wiele innych mięt ma już 10–15 cm. To naturalne dla tej odmiany. Jesienią ścinana, część nadziemna pojawia się ponownie wiosną."
+      }
+    },
+    "en": {
+      "name": "Banana Mint",
+      "latinName": "Mentha arvensis 'Banana'",
+      "shortDescription": "A rare, low-growing mint with delicate light-green leaves, violet-blue flowers, and a unique banana-and-mint aroma.",
+      "sections": {
+        "appearance": "I have delicate, light-green leaves with a unique banana scent. In summer decorative violet-blue flowers appear. I have a lovely clumping habit and slow growth — initially I grow upright and, with advanced vegetation, my shoots lean and rest on the ground. I'm a low variety (usually 25–40 cm tall).",
+        "origin": "I'm a variety of corn mint (Mentha arvensis), found across northern and eastern Europe. The earliest mentions in 18th-century nomenclature date back to 1753.",
+        "benefits": "The essential oil obtained from my leaves is used in the chemical, perfume, pharmaceutical, food (including sweets), and tobacco industries. Preparations made from me increase the secretion of digestive juices, relax smooth muscles, and have antibacterial properties. Thanks to my calming effect, I help with insomnia, migraines, neuralgia, and a sore throat. I'm a milder alternative to peppermint.",
+        "foodPairing": "My fresh leaves wonderfully enhance soups, fruit salads, sorbets, and other sweet dishes. They pair beautifully with cocktails, drinks, desserts (ice cream, fruit, chocolate), dips, sauces, and alcohol-based liqueurs. They also make a refreshing tea or infusion.",
+        "planting": "I grow in practically any conditions. I prefer partial shade and sunny spots. Unlike most mints I'm not invasive — thanks to my slow growth I do beautifully in pots, window boxes, terraces, verandas, windowsills, and herb borders. I look great alongside other plants, including other mint varieties. I'm fully frost-hardy and don't freeze out in temperate climates. I start vegetating late — only in early May, when many mints are already 10–15 cm tall. This is normal for this variety. Cut back in autumn, my above-ground parts return again in spring."
+      }
+    }
+  }
+}

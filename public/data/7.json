@@ -1,0 +1,43 @@
+{
+  "id": 7,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Wodna"
+  ],
+  "badges": {
+    "frostResistance": "-25°C",
+    "perennial": true,
+    "position": { "pl": "Słoneczne / półcień", "en": "Sunny / partial shade" },
+    "height": { "pl": "40–90 cm", "en": "40–90 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia", "Napary", "Prozdrowotne", "Aromaterapia", "Roślina ozdobna"],
+      "en": ["Cuisine", "Infusions", "Health-promoting", "Aromatherapy", "Ornamental"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Wodna",
+      "latinName": "Mentha aquatica",
+      "shortDescription": "Wieloletnia, aromatyczna roślina dla ogrodów wodnych i naturalistycznych — wabi pszczoły i motyle, dostarcza orzeźwiających liści.",
+      "sections": {
+        "appearance": "Tworzę gęste kępy o wysokości od 40 do 90 cm. Mam jajowate, jasnozielone liście, często pokryte delikatnym meszkiem. Drobne, kuliste kwiatostany w kolorze liliowo-fioletowym pojawiają się od lipca do września. Mój silny, miętowy zapach uwalnia się z liści i kwiatów.",
+        "origin": "W naturze rosnę w pobliżu wód, na wilgotnych łąkach i terenach podmokłych. Idealnie wpisuję się w ogrody wodne i naturalistyczne, w których wilgoć jest stale obecna.",
+        "benefits": "Pełnię rolę rośliny leczniczej, przyprawowej i miododajnej — moje fioletowe kwiatostany to świetny wabik dla pszczół, trzmieli i motyli, wspierających ekosystem ogrodu. Liście wykorzystywane są do orzeźwiających naparów wspomagających trawienie i działających uspokajająco, a olejek eteryczny sprawdza się w aromaterapii.",
+        "foodPairing": "Moje liście można wykorzystywać w kuchni i do przygotowywania naparów. Świetnie pasują do herbat, lemoniad, koktajli oraz lekkich, letnich dań.",
+        "planting": "Najlepiej rosnę na stanowiskach nasłonecznionych lub półcienistych — w pełnym słońcu szybciej się rozrastam i wydaję intensywnie pachnące liście. Lubię gleby wilgotne, torfowe lub gliniaste; mogę być uprawiana także w strefie przybrzeżnej zbiorników wodnych. Wymagam stale wilgotnego podłoża, zwłaszcza w suchych okresach (w doniczce regularnie podlewaj). Rozmnażam się przez podziemne rozłogi i podział kęp wiosną lub jesienią — by uniknąć nadmiernego rozrastania, warto sadzić mnie w ogranicznikach (np. doniczce wkopanej w ziemię). Regularne przycinanie wierzchołków pędów sprzyja zagęszczeniu rośliny oraz zwiększa intensywność zapachu i smaku liści. Jestem w pełni mrozoodporna i nie wymagam specjalnej ochrony zimą."
+      }
+    },
+    "en": {
+      "name": "Water Mint",
+      "latinName": "Mentha aquatica",
+      "shortDescription": "An aromatic perennial for water and naturalistic gardens — attracts bees and butterflies and yields refreshing leaves.",
+      "sections": {
+        "appearance": "I form dense clumps from 40 to 90 cm tall. I have ovate, light-green leaves, often covered with a soft down. Small, spherical lilac-violet inflorescences appear from July to September. My strong, minty scent is released from both leaves and flowers.",
+        "origin": "In the wild I grow near water, on wet meadows and marshlands. I'm a perfect fit for water gardens and naturalistic gardens where moisture is constant.",
+        "benefits": "I'm an ornamental, culinary, medicinal, and melliferous plant — my violet inflorescences are a great lure for bees, bumblebees, and butterflies, supporting the garden ecosystem. My leaves are used in refreshing infusions that aid digestion and have a calming effect, and my essential oil works well in aromatherapy.",
+        "foodPairing": "My leaves can be used in cooking and to prepare infusions. They pair beautifully with teas, lemonades, cocktails, and light summer dishes.",
+        "planting": "I do best in sunny or partly shaded spots — in full sun I spread faster and produce more intensely fragrant leaves. I prefer moist, peaty, or clay soils; I can also be grown in the marginal zone of ponds and water features. I need consistently moist substrate, especially in dry periods (in pots, water regularly). I spread via underground rhizomes and can be propagated by clump division in spring or autumn — to keep me in check, plant me in a buried container or root barrier. Regular pinching of shoot tips encourages bushier growth and intensifies the scent and flavour of the leaves. I'm fully frost-hardy and need no special winter protection."
+      }
+    }
+  }
+}

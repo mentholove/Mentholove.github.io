@@ -1,0 +1,43 @@
+{
+  "id": 9,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Imbirowa"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Słońce / półcień", "en": "Sun / partial shade" },
+    "height": { "pl": "30–70 cm", "en": "30–70 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia", "Napary", "Prozdrowotne", "Aromaterapia", "Roślina ozdobna"],
+      "en": ["Culinary", "Infusions", "Health-promoting", "Aromatherapy", "Ornamental"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Imbirowa",
+      "latinName": "Mentha × gracilis 'Ginger'",
+      "shortDescription": "Rzadka odmiana mięty o żywozielonych, błyszczących liściach i wyjątkowym miętowym aromacie z orzeźwiającą nutą imbiru.",
+      "sections": {
+        "appearance": "Mam żywozielone, błyszczące, ząbkowane liście — czasem ze złocistymi, żółtawymi przebarwieniami, na czerwonawych łodygach. Charakteryzuje mnie ładny, kępiasty, pokładający się pokrój i dość wolny jak na miętę wzrost. Moje kwiaty (lawendowe) wyrastają z nasad liściowych w okółkach, nie na szczytach pędów jak u większości mięt. Osiągam wysokość około 30–70 cm.",
+        "origin": "Jestem mieszańcem powstałym ze skrzyżowania mięty polnej (Mentha arvensis) i mięty zielonej (Mentha spicata). Bywam nazywana także Redmint, Golden Apple Mint czy Scotchmint.",
+        "benefits": "Jestem ceniona jako zioło wspomagające trawienie i łagodzące bóle głowy. Mój wyjątkowy aromat — łączący miętę z ciepłą, łagodną nutą imbiru (bez ostrości) — działa uspokajająco. Dzięki silnemu zapachowi służę także jako naturalny środek odstraszający szkodniki. Jestem łagodniejszą alternatywą dla rodzimej mięty pieprzowej.",
+        "foodPairing": "Moje świeże listki doskonale wzbogacą smak zup, sałatek owocowych, sorbetów i innych słodkich potraw. Świetnie sprawdzą się jako dodatek do koktajli, herbatek, naparów, galaretek i jako dekoracja deserów. Pasuję też do potraw z imbirowo-miętowym akcentem.",
+        "planting": "Lubię średnio żyzną, wilgotną glebę, bogatą w składniki pokarmowe, w miejscu słonecznym lub lekko zacienionym. Najbardziej lubię półcień. W odróżnieniu od większości mięt nie jestem ekspansywna, dzięki czemu świetnie sprawdzam się w doniczkach, na tarasach, werandach, parapetach i w ziołowych rabatach — bez konieczności szybkiego przesadzania. Jestem całkowicie mrozoodporna i nie wymarzam w polskim klimacie. Pod koniec sezonu warto przyciąć mnie przy ziemi i grubo obsypać suchymi liśćmi oraz igliwiem, aby okryć korzenie i zabezpieczyć przed silnymi mrozami. Jesienią ścinana, wiosną odrastam z pełnią aromatu."
+      }
+    },
+    "en": {
+      "name": "Ginger Mint",
+      "latinName": "Mentha × gracilis 'Ginger'",
+      "shortDescription": "A rare mint variety with bright-green, glossy leaves and a distinctive minty aroma carrying a refreshing note of ginger.",
+      "sections": {
+        "appearance": "I have bright-green, glossy, serrated leaves — sometimes showing golden or yellow variegated markings — on reddish stems. I have a lovely clumping, sprawling habit and grow rather slowly for a mint. My lavender flowers appear in whorls from the leaf axils rather than at the shoot tips like most mints. I reach roughly 30–70 cm in height.",
+        "origin": "I'm a hybrid resulting from a cross between corn mint (Mentha arvensis) and spearmint (Mentha spicata). I'm also known as Redmint, Golden Apple Mint, or Scotchmint.",
+        "benefits": "I'm valued as a herb that aids digestion and soothes headaches. My unique aroma — combining mint with a warm, mild ginger note (without any heat) — has a calming effect. Thanks to my strong fragrance I also work as a natural pest deterrent. I'm a milder alternative to peppermint.",
+        "foodPairing": "My fresh leaves wonderfully enhance soups, fruit salads, sorbets, and other sweet dishes. They go beautifully into cocktails, teas, infusions, jellies, and as a garnish for desserts. I also pair well with dishes featuring a ginger-mint accent.",
+        "planting": "I like moderately fertile, moist, nutrient-rich soil in a sunny or lightly shaded spot — partial shade suits me best. Unlike most mints I'm not invasive, so I'm great in pots, on terraces, verandas, windowsills, and in herb borders, without the need for frequent repotting. I'm fully frost-hardy and don't freeze out in temperate climates. At the end of the season cut me back to the ground and cover thickly with dry leaves and conifer needles to protect the roots from severe frost. Cut back in autumn, I return in spring with full aroma."
+      }
+    }
+  }
+}

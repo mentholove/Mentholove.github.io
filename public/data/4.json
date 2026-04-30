@@ -1,0 +1,43 @@
+{
+  "id": 4,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Eukaliptusowa"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Półcień", "en": "Partial shade" },
+    "height": { "pl": "do 70 cm", "en": "up to 70 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia orientalna", "Kuchnia śródziemnomorska", "Napary", "Odstraszające insekty", "Prozdrowotne", "Aromaterapia"],
+      "en": ["Oriental cuisine", "Mediterranean cuisine", "Infusions", "Insect repellent", "Health-promoting", "Aromatherapy"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Wonna Eukaliptusowa",
+      "latinName": "Mentha suaveolens subsp. insularis 'Eucalypthusminze'",
+      "shortDescription": "Niezwykle rzadka odmiana mięty wonnej o aromacie eukaliptusa z nutami cytrusów, owocowej słodyczy i żywicznego mastyksu.",
+      "sections": {
+        "appearance": "Mam mocno pokarbowane, owalne, jasnozielone liście. Mój zapach to niespodziewana mieszanka nut eukaliptusowych, owocowej słodyczy, cytrusów oraz żywicznej woni mastyksowej.",
+        "origin": "Należę do niezwykle rzadkich odmian mięty wonnej (Mentha suaveolens). Pierwsze wzmianki według XVIII-wiecznej nomenklatury pochodzą z 1854 roku. Występuję na terenach śródziemnomorskich.",
+        "benefits": "Pozyskiwany z moich liści olejek eteryczny wykorzystywany jest w przemyśle chemicznym, perfumeryjnym, farmaceutycznym, spożywczym (m.in. do wyrobu słodyczy) i tytoniowym. Preparaty ze mnie zwiększają wydzielanie soków trawiennych, zmniejszają napięcie mięśni gładkich oraz działają przeciwbakteryjnie. Ze względu na działanie uspokajające jestem pomocna w leczeniu bezsenności, migreny, nerwobóli i łagodzę ból gardła.",
+        "foodPairing": "Moje świeże listki dobrze komponują się z deserami (lody, owoce, czekolada), można je dodawać do sałatek, dipów, sosów oraz nalewek na bazie alkoholu. Oczywiście jako zioło króluję przede wszystkim w przepysznych drinkach.",
+        "planting": "Rosnę praktycznie w każdych warunkach. Posadzona do gruntu w ogródku nadam mu wiejskiego charakteru i zapewnię latem wspaniały zapach przyciągający pożyteczne owady. Na tarasie będę naturalnym odstraszaczem niechcianych insektów. Najlepiej rosnę w półcieniu i lubię obfite podlewanie. Jestem rośliną wieloletnią, mrozoodporną do -20°C."
+      }
+    },
+    "en": {
+      "name": "Eucalyptus Mint",
+      "latinName": "Mentha suaveolens subsp. insularis 'Eucalypthusminze'",
+      "shortDescription": "An exceptionally rare variety of apple mint with eucalyptus notes, citrus, fruity sweetness, and a resinous mastic aroma.",
+      "sections": {
+        "appearance": "I have deeply scalloped, oval, light-green leaves. My scent is an unexpected blend of eucalyptus notes, fruity sweetness, citrus, and a resinous mastic aroma.",
+        "origin": "I'm one of the rarest varieties of apple mint (Mentha suaveolens). The earliest mentions, in 18th-century nomenclature, date back to 1854. I'm native to the Mediterranean region.",
+        "benefits": "The essential oil obtained from my leaves is used in the chemical, perfume, pharmaceutical, food (including sweets) and tobacco industries. Preparations made from me increase the secretion of digestive juices, relax smooth muscles, and have antibacterial properties. Thanks to my calming effect, I help with insomnia, migraines, neuralgia, and a sore throat.",
+        "foodPairing": "My fresh leaves pair well with desserts (ice cream, fruit, chocolate). They can be added to salads, dips, sauces, and alcohol-based liqueurs. As a herb, I shine above all in delicious drinks.",
+        "planting": "I grow in practically any conditions. Planted in the ground in your garden, I'll bring a cottage-style charm and a wonderful summer scent that attracts beneficial insects. On a terrace, I act as a natural insect repellent. I do best in partial shade and enjoy abundant watering. I'm a hardy perennial, frost-resistant down to -20°C."
+      }
+    }
+  }
+}

@@ -5,11 +5,11 @@
     "https://placehold.co/600x400/86efac/14532d?text=Pineapple+Mint"
   ],
   "badges": {
-    "frostResistance": "-20°C",
+    "frostResistance": "-15°C",
     "perennial": true,
-    "position": { "pl": "Półcień", "en": "Partial shade" },
-    "height": { "pl": "do 70 cm", "en": "up to 70 cm" },
-    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "position": { "pl": "Słoneczne", "en": "Sunny" },
+    "height": { "pl": "do 60 cm", "en": "up to 60 cm" },
+    "watering": { "pl": "Umiarkowane", "en": "Moderate" },
     "uses": {
       "pl": ["Kuchnia śródziemnomorska", "Napary", "Odstraszające insekty", "Prozdrowotne", "Aromaterapia"],
       "en": ["Mediterranean cuisine", "Infusions", "Insect repellent", "Health-promoting", "Aromatherapy"]
@@ -19,25 +19,25 @@
     "pl": {
       "name": "Mięta Ananasowa",
       "latinName": "Mentha suaveolens 'Variegata'",
-      "shortDescription": "Delikatna mięta o tropikalnym aromacie, idealna do drinków i deserów.",
+      "shortDescription": "Wyjątkowa odmiana mięty, która łączy egzotyczny zapach ananasa z charakterystyczną nutą mięty.",
       "sections": {
-        "appearance": "Mam okrągłe, aksamitne listki z kremowo-białymi obwódkami i świeżym ananasowym zapachem.",
-        "origin": "Pochodzę z rejonu Morza Śródziemnego. Jestem naturalną mutacją mięty okrągłolistnej.",
-        "benefits": "Moje liście działają kojąco na układ pokarmowy, łagodzą bóle głowy i odświeżają oddech. Olejek eteryczny stosowany jest w aromaterapii.",
-        "foodPairing": "Świetnie pasuję do lemoniad, herbat, koktajli owocowych, sałatek z truskawkami oraz lodów.",
-        "planting": "Rosnę najlepiej w półcieniu z umiarkowanie wilgotną glebą. Doskonale sprawdzam się w doniczkach na tarasie lub parapecie."
+        "appearance": "Wyróżniam się dużymi, zielonymi, ozdobnymi liśćmi i białymi kwiatami pojawiającymi się latem. Pachną zarówno moje liście, jak i kwiaty — egzotyczny aromat ananasa miesza się z klasyczną nutą miętową. Jestem rośliną szybko rosnącą, jednak moje liście są sezonowe (nie jestem zimozielona).",
+        "origin": "Jestem wieloletnią byliną, mało wymagającą i idealną dla początkujących ogrodników. Rozmnażam się za pomocą rozłogów, dzięki czemu potrafię szybko zająć więcej miejsca w ogrodzie.",
+        "benefits": "Mam właściwości lecznicze i prozdrowotne, jestem rośliną miododajną — przyciągam pszczoły i motyle, wspierając ekosystem ogrodu. Mój olejek eteryczny stosowany jest w aromaterapii, a zapach pomaga odstraszać insekty.",
+        "foodPairing": "Moje liście są jadalne — świetnie pasują do deserów, herbat, lemoniad, napojów, koktajli oraz dań kuchni śródziemnomorskiej. Egzotyczny smak ananasa nada potrawom niepowtarzalny aromat.",
+        "planting": "Najlepiej rosnę na stanowisku słonecznym, w lekkiej, piaszczystej, przepuszczalnej glebie o odczynie obojętnym i umiarkowanej wilgotności (polecam żyzną, próchniczną ziemię specjalnie pod uprawę ziół). Sprawdzam się w pojemnikach, na balkonach i tarasach, w ogrodach wiejskich i naturalistycznych, na rabatach pachnących oraz jako roślina przyprawowa i lecznicza. Lubię regularne podlewanie i przycinanie — zachęca mnie to do gęstego, krzaczastego wzrostu. Jestem mrozoodporna do -15°C."
       }
     },
     "en": {
       "name": "Pineapple Mint",
       "latinName": "Mentha suaveolens 'Variegata'",
-      "shortDescription": "A delicate mint with a tropical aroma, perfect for drinks and desserts.",
+      "shortDescription": "A unique mint variety that blends an exotic pineapple scent with the classic mint note.",
       "sections": {
-        "appearance": "I have round, velvety leaves with creamy-white borders and a fresh pineapple scent.",
-        "origin": "I originate from the Mediterranean region. I am a natural mutation of round-leafed mint.",
-        "benefits": "My leaves soothe the digestive system, relieve headaches, and freshen breath. The essential oil is used in aromatherapy.",
-        "foodPairing": "I pair beautifully with lemonades, teas, fruit cocktails, strawberry salads, and ice cream.",
-        "planting": "I grow best in partial shade with moderately moist soil. I thrive in pots on a terrace or windowsill."
+        "appearance": "I stand out with large, decorative green leaves and white flowers that appear in summer. Both my leaves and flowers are fragrant, blending an exotic pineapple aroma with a classic mint note. I'm a fast-growing plant, but my foliage is seasonal — I'm not evergreen.",
+        "origin": "I'm a hardy perennial — low-maintenance and perfect for beginner gardeners. I spread via runners, which lets me quickly cover more ground in the garden.",
+        "benefits": "I have medicinal and health-promoting properties and I'm a melliferous plant — I attract bees and butterflies, supporting the garden ecosystem. My essential oil is used in aromatherapy, and my scent helps repel insects.",
+        "foodPairing": "My leaves are edible and pair beautifully with desserts, teas, lemonades, drinks, cocktails, and Mediterranean dishes. The exotic pineapple flavour gives food a one-of-a-kind aroma.",
+        "planting": "I grow best in a sunny spot in light, sandy, well-drained soil with neutral pH and moderate moisture (a rich, humus-rich herb-growing mix is ideal). I do well in containers on balconies and terraces, in cottage and naturalistic gardens, in fragrant borders, and as a culinary and medicinal herb. I appreciate regular watering and pruning — it encourages dense, bushy growth. I'm frost-resistant down to -15°C."
       }
     }
   }
