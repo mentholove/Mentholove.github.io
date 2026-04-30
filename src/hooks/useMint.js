@@ -1,5 +1,8 @@
 import { useEffect, useState } from 'react';
 
+const BASE = import.meta.env.BASE_URL; // e.g. "/Mentholove/" in prod, "/" in dev
+const dataUrl = (path) => `${BASE}data/${path}`.replace(/\/{2,}/g, '/');
+
 export function useMint(id) {
   const [mint, setMint] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -11,7 +14,7 @@ export function useMint(id) {
     setError(null);
     setMint(null);
 
-    fetch(`/data/${id}.json`)
+    fetch(dataUrl(`${id}.json`))
       .then((r) => {
         if (!r.ok) throw new Error(`Failed to fetch mint ${id}`);
         return r.json();
@@ -46,11 +49,11 @@ export function useMintList() {
     let cancelled = false;
     setLoading(true);
 
-    fetch('/data/index.json')
+    fetch(dataUrl('index.json'))
       .then((r) => r.json())
       .then((ids) =>
         Promise.all(
-          ids.map((id) => fetch(`/data/${id}.json`).then((r) => r.json()))
+          ids.map((id) => fetch(dataUrl(`${id}.json`)).then((r) => r.json()))
         )
       )
       .then((all) => {

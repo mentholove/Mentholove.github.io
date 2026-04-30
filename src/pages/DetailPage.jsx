@@ -11,7 +11,7 @@ import {
 import { useTranslation } from 'react-i18next';
 import { useMint } from '../hooks/useMint.js';
 import ImageGallery from '../components/ImageGallery.jsx';
-import MintBadge, { UseBadge } from '../components/MintBadge.jsx';
+import { MintBadgeCard, UseBadge } from '../components/MintBadge.jsx';
 
 const SECTION_META = [
   { key: 'appearance', Icon: Leaf },
@@ -19,6 +19,14 @@ const SECTION_META = [
   { key: 'benefits', Icon: HeartPulse },
   { key: 'foodPairing', Icon: UtensilsCrossed },
   { key: 'planting', Icon: Sprout },
+];
+
+const KEY_BADGE_FIELDS = [
+  'frostResistance',
+  'perennial',
+  'position',
+  'height',
+  'watering',
 ];
 
 function NotFound() {
@@ -60,7 +68,9 @@ export default function DetailPage() {
   const tr = mint.translations[lang];
   const usesArr = mint.badges?.uses?.[lang] || [];
 
-  const otherBadgeFields = ['frostResistance', 'perennial', 'position', 'height', 'watering'];
+  const visibleBadgeFields = KEY_BADGE_FIELDS.filter(
+    (f) => mint.badges?.[f] !== undefined && mint.badges?.[f] !== null
+  );
 
   return (
     <motion.div
@@ -77,7 +87,7 @@ export default function DetailPage() {
         {t('nav.backToCatalog')}
       </Link>
 
-      <header className="mb-6">
+      <header className="mb-8">
         <h1 className="font-display text-4xl md:text-5xl font-bold text-mint-900">
           {tr.name}
         </h1>
@@ -89,26 +99,40 @@ export default function DetailPage() {
         )}
       </header>
 
-      <div className="flex flex-wrap gap-2 mb-8">
-        {otherBadgeFields.map((f) =>
-          mint.badges?.[f] !== undefined && mint.badges?.[f] !== null ? (
-            <MintBadge
-              key={f}
-              field={f}
-              value={mint.badges[f]}
-              lang={lang}
-            />
-          ) : null
-        )}
-        {usesArr.map((u) => (
-          <UseBadge key={u} use={u} />
-        ))}
-      </div>
-
       {mint.images?.length > 0 && (
         <div className="mb-10">
           <ImageGallery images={mint.images} alt={tr.name} />
         </div>
+      )}
+
+      {/* Key info — bigger, dedicated grid */}
+      {visibleBadgeFields.length > 0 && (
+        <section className="mb-10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {visibleBadgeFields.map((f) => (
+              <MintBadgeCard
+                key={f}
+                field={f}
+                value={mint.badges[f]}
+                lang={lang}
+              />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Uses — kept as pill row, full width */}
+      {usesArr.length > 0 && (
+        <section className="mb-10 bg-white border border-mint-100 rounded-2xl p-5 shadow-sm">
+          <h2 className="text-xs uppercase tracking-wide text-mint-500 font-semibold mb-3">
+            {t('badges.uses')}
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {usesArr.map((u) => (
+              <UseBadge key={u} use={u} />
+            ))}
+          </div>
+        </section>
       )}
 
       <div className="space-y-5">

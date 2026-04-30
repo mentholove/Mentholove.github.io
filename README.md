@@ -11,6 +11,23 @@ npm run dev
 
 Then open http://localhost:5173.
 
+## Deploying to GitHub Pages
+
+The repo includes a workflow at `.github/workflows/deploy.yml` that builds the site and publishes it to Pages on every push to `main`.
+
+**One-time setup in GitHub:**
+
+1. Go to **Settings → Pages**.
+2. Under **Build and deployment → Source**, select **GitHub Actions**.
+3. Push to `main` (or run the workflow manually). The site will be served from
+   `https://<owner>.github.io/<repo>/`.
+
+**About the base path** — `vite.config.js` defaults to `base: '/Mentholove/'`. The workflow overrides it at build time via the `VITE_BASE` env var so it always matches the actual repo name. If you fork/rename the repo, no code changes are needed.
+
+**Why HashRouter?** GitHub Pages doesn't support SPA URL rewriting, so the app uses `HashRouter` (URLs look like `/#/2`). This avoids 404s on refresh and on direct deep links.
+
+**Common pitfall** — the original "Failed to load module script... MIME type text/jsx" error happens when GitHub Pages serves the raw `src/` files instead of the Vite build output (`dist/`). The included workflow fixes this by uploading only `dist/` as the Pages artifact.
+
 ## Tech stack
 
 - React 18 + Vite

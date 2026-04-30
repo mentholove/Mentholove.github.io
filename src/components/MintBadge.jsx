@@ -49,3 +49,45 @@ export function UseBadge({ use, compact = false }) {
     </span>
   );
 }
+
+/**
+ * Large card-style badge: big icon on the left, label on top, value below.
+ * Used in the prominent "key info" grid on the detail page.
+ */
+export function MintBadgeCard({ field, value, lang }) {
+  const { t } = useTranslation();
+  const Icon = BADGE_ICONS[field];
+
+  let label;
+  let displayValue;
+
+  if (field === 'perennial') {
+    label = t('badges.perennial');
+    displayValue = value ? t('badges.perennialYes') : t('badges.perennialNo');
+  } else if (field === 'frostResistance') {
+    label = t('badges.frostResistance');
+    displayValue = value;
+  } else {
+    label = t(`badges.${field}`);
+    displayValue =
+      typeof value === 'object' && value !== null && !Array.isArray(value)
+        ? value[lang]
+        : value;
+  }
+
+  return (
+    <div className="flex items-center gap-4 bg-white border border-mint-100 rounded-2xl p-4 shadow-sm hover:shadow-md hover:border-mint-200 transition">
+      <span className="flex-shrink-0 inline-flex items-center justify-center h-12 w-12 rounded-xl bg-mint-100 text-mint-700">
+        {Icon && <Icon size={24} />}
+      </span>
+      <div className="min-w-0">
+        <p className="text-xs uppercase tracking-wide text-mint-500 font-semibold">
+          {label}
+        </p>
+        <p className="text-lg font-display font-bold text-mint-900 leading-tight truncate">
+          {String(displayValue)}
+        </p>
+      </div>
+    </div>
+  );
+}
