@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: theme('colors.mint.50');
+  color: theme('colors.mint.900');
+}
+
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Swiper overrides */
+.swiper-button-next,
+.swiper-button-prev {
+  color: theme('colors.mint.700') !important;
+}
+.swiper-pagination-bullet-active {
+  background: theme('colors.mint.600') !important;
+}

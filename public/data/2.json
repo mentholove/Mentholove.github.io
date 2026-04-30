@@ -1,0 +1,43 @@
+{
+  "id": 2,
+  "images": [
+    "https://placehold.co/600x400/86efac/14532d?text=Mi%C4%99ta+Czekoladowa"
+  ],
+  "badges": {
+    "frostResistance": "-25°C",
+    "perennial": true,
+    "position": { "pl": "Słońce / półcień", "en": "Sun / partial shade" },
+    "height": { "pl": "do 60 cm", "en": "up to 60 cm" },
+    "watering": { "pl": "Umiarkowane", "en": "Moderate" },
+    "uses": {
+      "pl": ["Napary", "Prozdrowotne", "Aromaterapia"],
+      "en": ["Infusions", "Health-promoting", "Aromatherapy"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Czekoladowa",
+      "latinName": "Mentha × piperita 'Chocolate'",
+      "shortDescription": "Aromatyczna mięta o subtelnej nucie kakao, świetna do deserów i gorącej czekolady.",
+      "sections": {
+        "appearance": "Mam ciemnozielone, lekko brązowiejące listki i charakterystyczny zapach czekolady z miętą.",
+        "origin": "Jestem odmianą mięty pieprzowej, wyhodowaną dla wyjątkowego, kakaowego aromatu.",
+        "benefits": "Wspieram trawienie, koję nerwy i poprawiam nastrój. Idealna na wieczorne napary.",
+        "foodPairing": "Pasuję do gorącej czekolady, ciastek, lodów, deserów z malinami oraz koktajli mlecznych.",
+        "planting": "Lubię żyzną, wilgotną glebę i półcieniste stanowisko. Najlepiej trzymać mnie w doniczce — szybko się rozrastam."
+      }
+    },
+    "en": {
+      "name": "Chocolate Mint",
+      "latinName": "Mentha × piperita 'Chocolate'",
+      "shortDescription": "An aromatic mint with a subtle cocoa note — perfect for desserts and hot chocolate.",
+      "sections": {
+        "appearance": "I have dark green, slightly bronze-tinted leaves and a distinctive chocolate-mint aroma.",
+        "origin": "I am a variety of peppermint, cultivated for my unique cocoa-like fragrance.",
+        "benefits": "I support digestion, soothe nerves, and lift the mood. Ideal in evening infusions.",
+        "foodPairing": "I pair beautifully with hot chocolate, cookies, ice cream, raspberry desserts, and milkshakes.",
+        "planting": "I love rich, moist soil and a partially shaded spot. Best kept in a pot — I spread quickly."
+      }
+    }
+  }
+}

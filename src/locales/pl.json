@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "backToCatalog": "Wróć do katalogu",
+    "title": "mentholove"
+  },
+  "catalog": {
+    "searchPlaceholder": "Szukaj mięty...",
+    "noResults": "Nie znaleziono mięty pasującej do wyszukiwania.",
+    "loading": "Ładowanie...",
+    "tagline": "Katalog odmian mięty"
+  },
+  "detail": {
+    "notFound": "Nie znaleziono mięty 🌿",
+    "loading": "Ładowanie...",
+    "sections": {
+      "appearance": "Jak wyglądam?",
+      "origin": "Skąd pochodzę?",
+      "benefits": "W czym pomagam?",
+      "foodPairing": "Z czym mnie jeść?",
+      "planting": "Gdzie mnie sadzić?"
+    }
+  },
+  "badges": {
+    "frostResistance": "Mrozoodporność",
+    "perennial": "Wieloletniość",
+    "perennialYes": "Tak",
+    "perennialNo": "Nie",
+    "position": "Stanowisko",
+    "height": "Wysokość",
+    "watering": "Podlewanie",
+    "uses": "Zastosowanie"
+  }
+}

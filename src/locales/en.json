@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "backToCatalog": "Back to catalog",
+    "title": "mentholove"
+  },
+  "catalog": {
+    "searchPlaceholder": "Search mint...",
+    "noResults": "No mint varieties found matching your search.",
+    "loading": "Loading...",
+    "tagline": "A catalog of mint varieties"
+  },
+  "detail": {
+    "notFound": "Mint not found 🌿",
+    "loading": "Loading...",
+    "sections": {
+      "appearance": "What do I look like?",
+      "origin": "Where do I come from?",
+      "benefits": "How do I help?",
+      "foodPairing": "What do I pair with?",
+      "planting": "Where should I be planted?"
+    }
+  },
+  "badges": {
+    "frostResistance": "Frost Resistance",
+    "perennial": "Perennial",
+    "perennialYes": "Yes",
+    "perennialNo": "No",
+    "position": "Position",
+    "height": "Height",
+    "watering": "Watering",
+    "uses": "Uses"
+  }
+}

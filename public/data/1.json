@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "images": [
+    "https://placehold.co/600x400/bbf7d0/166534?text=Mi%C4%99ta+Ananasowa",
+    "https://placehold.co/600x400/86efac/14532d?text=Pineapple+Mint"
+  ],
+  "badges": {
+    "frostResistance": "-20°C",
+    "perennial": true,
+    "position": { "pl": "Półcień", "en": "Partial shade" },
+    "height": { "pl": "do 70 cm", "en": "up to 70 cm" },
+    "watering": { "pl": "Obfite", "en": "Abundant" },
+    "uses": {
+      "pl": ["Kuchnia śródziemnomorska", "Napary", "Odstraszające insekty", "Prozdrowotne", "Aromaterapia"],
+      "en": ["Mediterranean cuisine", "Infusions", "Insect repellent", "Health-promoting", "Aromatherapy"]
+    }
+  },
+  "translations": {
+    "pl": {
+      "name": "Mięta Ananasowa",
+      "latinName": "Mentha suaveolens 'Variegata'",
+      "shortDescription": "Delikatna mięta o tropikalnym aromacie, idealna do drinków i deserów.",
+      "sections": {
+        "appearance": "Mam okrągłe, aksamitne listki z kremowo-białymi obwódkami i świeżym ananasowym zapachem.",
+        "origin": "Pochodzę z rejonu Morza Śródziemnego. Jestem naturalną mutacją mięty okrągłolistnej.",
+        "benefits": "Moje liście działają kojąco na układ pokarmowy, łagodzą bóle głowy i odświeżają oddech. Olejek eteryczny stosowany jest w aromaterapii.",
+        "foodPairing": "Świetnie pasuję do lemoniad, herbat, koktajli owocowych, sałatek z truskawkami oraz lodów.",
+        "planting": "Rosnę najlepiej w półcieniu z umiarkowanie wilgotną glebą. Doskonale sprawdzam się w doniczkach na tarasie lub parapecie."
+      }
+    },
+    "en": {
+      "name": "Pineapple Mint",
+      "latinName": "Mentha suaveolens 'Variegata'",
+      "shortDescription": "A delicate mint with a tropical aroma, perfect for drinks and desserts.",
+      "sections": {
+        "appearance": "I have round, velvety leaves with creamy-white borders and a fresh pineapple scent.",
+        "origin": "I originate from the Mediterranean region. I am a natural mutation of round-leafed mint.",
+        "benefits": "My leaves soothe the digestive system, relieve headaches, and freshen breath. The essential oil is used in aromatherapy.",
+        "foodPairing": "I pair beautifully with lemonades, teas, fruit cocktails, strawberry salads, and ice cream.",
+        "planting": "I grow best in partial shade with moderately moist soil. I thrive in pots on a terrace or windowsill."
+      }
+    }
+  }
+}
