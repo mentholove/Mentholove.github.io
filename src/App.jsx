@@ -18,7 +18,7 @@ export default function App() {
         </AnimatePresence>
       </main>
       <footer className="py-8 text-center text-sm text-mint-600/80">
-        🌿 mentholove
+        🌿 Mentholove
       </footer>
     </div>
   );
